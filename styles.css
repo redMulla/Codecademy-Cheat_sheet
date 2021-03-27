@@ -19,6 +19,7 @@ table, th, td {
   
 th {
     background-color: DarkTurquoise;
+    
 }
   
 h2 {
@@ -27,4 +28,6 @@ h2 {
 
 table {
     border-collapse: collapse;
+    margin-right: 20%;
+    margin-left: 20%;
 }
