@@ -1,0 +1,30 @@
+body {
+    font-family: Arial;
+    background-color: Cornsilk;
+}
+
+header{
+    text-align: center;
+}
+  
+.code {
+    font-family: monospace;
+    background-color: lightgoldenrodyellow;
+}
+  
+table, th, td {
+    border: 1px solid DarkTurquoise;
+    background-color: Bisque;
+}
+  
+th {
+    background-color: DarkTurquoise;
+}
+  
+h2 {
+    color: Turquoise;
+}
+
+table {
+    border-collapse: collapse;
+}
